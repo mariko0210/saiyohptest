@@ -1,3 +1,5 @@
+@charset "UTF-8"; /*文字コードの指定*/
+
 header {
   height:40px;
   background-color:rgb(11, 8, 59);
